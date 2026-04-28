@@ -5,7 +5,7 @@ payload = {
     "action_run_link": "FILL_THIS_AFTER_FIRST_RUN",
     "email": "contact@akshayvilekar.me",
     "name": "Akshay Vilekar",
-    "repository_link": "https://github.com/YOUR_USERNAME/b12-application",
+    "repository_link": "https://github.com/ak2703/b12-application",
     "resume_link": "https://www.akshayvilekar.me",
     "timestamp": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
 }
