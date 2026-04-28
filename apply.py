@@ -6,7 +6,7 @@ payload = {
     "email": "contact@akshayvilekar.me",
     "name": "Akshay Vilekar",
     "repository_link": "https://github.com/ak2703/b12-application",
-    "resume_link": "https://www.akshayvilekar.me",
+    "resume_link": "https://raw.githubusercontent.com/ak2703/b12-application/main/Akshay_Vilekar_Resume_B12.pdf",
     "timestamp": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
 }
 
