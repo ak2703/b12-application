@@ -1,0 +1,8 @@
+name: Apply to B12
+on: [push]
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: python apply.py
