@@ -2,7 +2,7 @@ import hashlib, hmac, json, urllib.request
 from datetime import datetime, timezone
 
 payload = {
-    "action_run_link": "FILL_THIS_AFTER_FIRST_RUN",
+    "action_run_link": "25039870857",
     "email": "contact@akshayvilekar.me",
     "name": "Akshay Vilekar",
     "repository_link": "https://github.com/ak2703/b12-application",
